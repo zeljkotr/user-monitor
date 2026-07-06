@@ -115,7 +115,7 @@ def proveri():
 
     if ivms_cpu > 50:
         alerts.upozori("ivms_cpu",
-            "iVMS-4200 zakucava racunar!\n\n"
+            "iVMS-4200 usporava racunar!\n\n"
             "Resenje:\n"
             "1. Smanjite broj kamera na ekranu\n"
             "2. Zatvorite iVMS ako nije potreban")
