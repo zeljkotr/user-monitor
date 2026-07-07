@@ -1,7 +1,7 @@
 # Pragovi za upozorenja
 CPU_PRAG = 90
-RAM_PRAG = 60
-MREZA_PRAG_MB = 5100    # MB/s — kad predje ovo, mreza je zasicena
+RAM_PRAG = 90
+MREZA_PRAG_MB = 100    # MB/s — kad predje ovo, mreza je zasicena
 CHROME_TABOVI_PRAG = 15  # broj Chrome procesa
 
 # Interval provere u sekundama
