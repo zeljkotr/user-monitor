@@ -105,3 +105,24 @@ if __name__ == "__main__":
         except Exception as e:
             log(f"GRESKA: {e}")
         time.sleep(config.INTERVAL)
+        
+if __name__ == "__main__":
+    alerts.splash()
+    
+    # Pokretanje settings prozora u posebnom threadu
+    import threading
+    import settings
+    t = threading.Thread(target=settings.otvori_settings)
+    t.daemon = True
+    t.start()
+    
+    log("=" * 50)
+    log("POKRECEM USER MONITOR")
+    log("=" * 50)
+
+    while True:
+        try:
+            proveri()
+        except Exception as e:
+            log(f"GRESKA: {e}")
+        time.sleep(config.INTERVAL)        

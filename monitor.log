@@ -1489,3 +1489,601 @@
 2026-07-07 14:17:42 | CPU: 7.7% | RAM: 60.0% | Mreza: 0.28 MB/s | Chrome CPU: 23.7% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.2%
 2026-07-07 14:17:46 | CPU: 13.4% | RAM: 60.0% | Mreza: 0.26 MB/s | Chrome CPU: 17.0% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.2%
 2026-07-07 14:17:46 | CPU: 8.5% | RAM: 60.0% | Mreza: 0.26 MB/s | Chrome CPU: 14.7% RAM: 16.7% | iVMS CPU: 9.7% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:17:50 | CPU: 5.5% | RAM: 59.9% | Mreza: 0.2 MB/s | Chrome CPU: 9.5% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:17:54 | CPU: 13.2% | RAM: 59.9% | Mreza: 0.24 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:17:54 | CPU: 3.7% | RAM: 59.9% | Mreza: 0.21 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:17:58 | CPU: 6.2% | RAM: 59.9% | Mreza: 0.2 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:18:02 | CPU: 3.7% | RAM: 59.9% | Mreza: 0.2 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 2.9% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:18:02 | CPU: 3.7% | RAM: 59.9% | Mreza: 0.22 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:18:06 | CPU: 5.6% | RAM: 59.9% | Mreza: 0.21 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.2%
+2026-07-07 14:18:10 | CPU: 5.7% | RAM: 59.9% | Mreza: 0.23 MB/s | Chrome CPU: 2.8% RAM: 16.7% | iVMS CPU: 2.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:10 | CPU: 8.0% | RAM: 59.9% | Mreza: 0.21 MB/s | Chrome CPU: 3.6% RAM: 16.7% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:14 | CPU: 6.8% | RAM: 59.9% | Mreza: 0.23 MB/s | Chrome CPU: 10.3% RAM: 16.7% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:18 | CPU: 7.8% | RAM: 59.9% | Mreza: 0.27 MB/s | Chrome CPU: 10.4% RAM: 16.7% | iVMS CPU: 2.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:19 | CPU: 5.6% | RAM: 59.9% | Mreza: 0.26 MB/s | Chrome CPU: 10.3% RAM: 16.7% | iVMS CPU: 2.9% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:22 | CPU: 6.1% | RAM: 59.4% | Mreza: 0.19 MB/s | Chrome CPU: 1.6% RAM: 16.7% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:26 | CPU: 8.9% | RAM: 59.5% | Mreza: 0.22 MB/s | Chrome CPU: 0.6% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:27 | CPU: 6.8% | RAM: 59.5% | Mreza: 0.19 MB/s | Chrome CPU: 0.6% RAM: 16.7% | iVMS CPU: 6.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:30 | CPU: 71.1% | RAM: 60.0% | Mreza: 0.23 MB/s | Chrome CPU: 0.6% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:34 | CPU: 6.4% | RAM: 60.0% | Mreza: 0.2 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:36 | CPU: 14.2% | RAM: 59.8% | Mreza: 0.18 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:38 | CPU: 14.0% | RAM: 59.9% | Mreza: 0.22 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:42 | CPU: 9.5% | RAM: 59.8% | Mreza: 0.23 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:44 | CPU: 10.4% | RAM: 59.7% | Mreza: 0.19 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 2.9% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:46 | CPU: 15.2% | RAM: 59.8% | Mreza: 0.2 MB/s | Chrome CPU: 2.9% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:50 | CPU: 9.6% | RAM: 59.5% | Mreza: 0.35 MB/s | Chrome CPU: 3.5% RAM: 16.5% | iVMS CPU: 18.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:52 | CPU: 18.3% | RAM: 59.5% | Mreza: 0.3 MB/s | Chrome CPU: 3.5% RAM: 16.5% | iVMS CPU: 8.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:54 | CPU: 27.0% | RAM: 59.4% | Mreza: 0.3 MB/s | Chrome CPU: 1.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:18:58 | CPU: 6.4% | RAM: 59.4% | Mreza: 0.24 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:00 | CPU: 9.9% | RAM: 59.4% | Mreza: 0.19 MB/s | Chrome CPU: 1.4% RAM: 16.5% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:02 | CPU: 15.4% | RAM: 59.4% | Mreza: 0.26 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:06 | CPU: 6.5% | RAM: 59.5% | Mreza: 0.24 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:08 | CPU: 10.9% | RAM: 59.4% | Mreza: 0.2 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:10 | CPU: 15.7% | RAM: 59.4% | Mreza: 0.26 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:14 | CPU: 9.1% | RAM: 59.4% | Mreza: 0.25 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:16 | CPU: 11.8% | RAM: 59.4% | Mreza: 0.17 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:18 | CPU: 17.5% | RAM: 59.4% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:22 | CPU: 19.3% | RAM: 59.5% | Mreza: 0.24 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:24 | CPU: 14.1% | RAM: 59.4% | Mreza: 0.18 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 32.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:26 | CPU: 20.9% | RAM: 59.4% | Mreza: 0.22 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:30 | CPU: 6.4% | RAM: 59.4% | Mreza: 0.27 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:32 | CPU: 13.8% | RAM: 59.4% | Mreza: 0.21 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:34 | CPU: 15.8% | RAM: 59.4% | Mreza: 0.36 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:38 | CPU: 7.2% | RAM: 59.3% | Mreza: 0.29 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:40 | CPU: 11.1% | RAM: 59.3% | Mreza: 0.2 MB/s | Chrome CPU: 1.4% RAM: 16.5% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:42 | CPU: 15.2% | RAM: 59.4% | Mreza: 0.3 MB/s | Chrome CPU: 1.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:46 | CPU: 6.8% | RAM: 59.4% | Mreza: 0.25 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:48 | CPU: 14.4% | RAM: 59.4% | Mreza: 0.19 MB/s | Chrome CPU: 1.8% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:50 | CPU: 12.1% | RAM: 59.6% | Mreza: 0.23 MB/s | Chrome CPU: 1.6% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:54 | CPU: 5.8% | RAM: 59.5% | Mreza: 0.24 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:56 | CPU: 12.9% | RAM: 59.5% | Mreza: 0.19 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:19:58 | CPU: 15.6% | RAM: 59.6% | Mreza: 0.21 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:02 | CPU: 8.0% | RAM: 59.5% | Mreza: 0.23 MB/s | Chrome CPU: 0.6% RAM: 16.7% | iVMS CPU: 9.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:04 | CPU: 13.6% | RAM: 59.5% | Mreza: 0.19 MB/s | Chrome CPU: 2.7% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:06 | CPU: 15.6% | RAM: 59.6% | Mreza: 0.21 MB/s | Chrome CPU: 2.7% RAM: 16.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:10 | CPU: 5.3% | RAM: 59.6% | Mreza: 0.21 MB/s | Chrome CPU: 2.3% RAM: 16.7% | iVMS CPU: 10.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:12 | CPU: 13.3% | RAM: 59.5% | Mreza: 0.19 MB/s | Chrome CPU: 0.4% RAM: 16.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:14 | CPU: 15.8% | RAM: 59.5% | Mreza: 0.2 MB/s | Chrome CPU: 0.2% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:18 | CPU: 8.8% | RAM: 59.5% | Mreza: 0.21 MB/s | Chrome CPU: 0.2% RAM: 16.7% | iVMS CPU: 8.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:20 | CPU: 16.4% | RAM: 59.5% | Mreza: 0.41 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:22 | CPU: 15.2% | RAM: 59.8% | Mreza: 0.2 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:26 | CPU: 4.5% | RAM: 59.8% | Mreza: 0.25 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:28 | CPU: 11.5% | RAM: 59.8% | Mreza: 0.18 MB/s | Chrome CPU: 0.4% RAM: 16.7% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:30 | CPU: 16.0% | RAM: 59.8% | Mreza: 0.23 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 12.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:34 | CPU: 6.2% | RAM: 59.8% | Mreza: 0.21 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:36 | CPU: 13.8% | RAM: 59.7% | Mreza: 0.19 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:38 | CPU: 14.0% | RAM: 59.7% | Mreza: 0.21 MB/s | Chrome CPU: 0.4% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:42 | CPU: 5.7% | RAM: 59.7% | Mreza: 0.21 MB/s | Chrome CPU: 0.4% RAM: 16.7% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:44 | CPU: 12.2% | RAM: 59.6% | Mreza: 0.18 MB/s | Chrome CPU: 0.2% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:46 | CPU: 16.8% | RAM: 59.7% | Mreza: 0.2 MB/s | Chrome CPU: 0.2% RAM: 16.7% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:50 | CPU: 5.2% | RAM: 59.7% | Mreza: 0.36 MB/s | Chrome CPU: 2.1% RAM: 16.7% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:52 | CPU: 15.1% | RAM: 59.6% | Mreza: 0.16 MB/s | Chrome CPU: 2.1% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:54 | CPU: 16.8% | RAM: 59.7% | Mreza: 0.2 MB/s | Chrome CPU: 2.1% RAM: 16.7% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:20:58 | CPU: 8.9% | RAM: 59.7% | Mreza: 0.19 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:00 | CPU: 24.4% | RAM: 59.7% | Mreza: 0.18 MB/s | Chrome CPU: 1.2% RAM: 16.7% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:02 | CPU: 21.6% | RAM: 59.7% | Mreza: 0.2 MB/s | Chrome CPU: 1.6% RAM: 16.7% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:06 | CPU: 9.1% | RAM: 59.7% | Mreza: 0.19 MB/s | Chrome CPU: 1.0% RAM: 16.7% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:08 | CPU: 15.3% | RAM: 59.7% | Mreza: 0.18 MB/s | Chrome CPU: 0.6% RAM: 16.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:10 | CPU: 18.9% | RAM: 59.7% | Mreza: 0.2 MB/s | Chrome CPU: 0.8% RAM: 16.7% | iVMS CPU: 12.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:14 | CPU: 10.7% | RAM: 59.7% | Mreza: 0.24 MB/s | Chrome CPU: 2.2% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:16 | CPU: 16.1% | RAM: 59.7% | Mreza: 0.15 MB/s | Chrome CPU: 2.0% RAM: 16.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:18 | CPU: 21.0% | RAM: 59.6% | Mreza: 0.2 MB/s | Chrome CPU: 1.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:22 | CPU: 7.4% | RAM: 59.5% | Mreza: 0.26 MB/s | Chrome CPU: 0.4% RAM: 16.6% | iVMS CPU: 36.6% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:24 | CPU: 21.7% | RAM: 59.4% | Mreza: 0.2 MB/s | Chrome CPU: 0.8% RAM: 16.6% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:26 | CPU: 16.1% | RAM: 59.2% | Mreza: 0.11 MB/s | Chrome CPU: 0.6% RAM: 16.6% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:30 | CPU: 5.3% | RAM: 59.2% | Mreza: 0.21 MB/s | Chrome CPU: 0.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:32 | CPU: 15.3% | RAM: 59.1% | Mreza: 0.18 MB/s | Chrome CPU: 1.0% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:34 | CPU: 17.4% | RAM: 59.2% | Mreza: 0.22 MB/s | Chrome CPU: 2.0% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:38 | CPU: 3.7% | RAM: 59.2% | Mreza: 0.22 MB/s | Chrome CPU: 1.6% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:40 | CPU: 12.7% | RAM: 59.1% | Mreza: 0.17 MB/s | Chrome CPU: 1.0% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:42 | CPU: 17.0% | RAM: 59.1% | Mreza: 0.21 MB/s | Chrome CPU: 0.4% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:46 | CPU: 5.0% | RAM: 59.2% | Mreza: 0.19 MB/s | Chrome CPU: 1.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:48 | CPU: 13.1% | RAM: 59.2% | Mreza: 0.18 MB/s | Chrome CPU: 1.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:50 | CPU: 16.3% | RAM: 59.2% | Mreza: 0.29 MB/s | Chrome CPU: 1.6% RAM: 16.6% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:54 | CPU: 11.4% | RAM: 59.2% | Mreza: 0.38 MB/s | Chrome CPU: 0.8% RAM: 16.6% | iVMS CPU: 9.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:56 | CPU: 21.0% | RAM: 59.2% | Mreza: 0.23 MB/s | Chrome CPU: 0.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:21:58 | CPU: 14.3% | RAM: 59.2% | Mreza: 0.17 MB/s | Chrome CPU: 0.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:02 | CPU: 6.7% | RAM: 59.2% | Mreza: 0.19 MB/s | Chrome CPU: 0.4% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:04 | CPU: 14.1% | RAM: 59.2% | Mreza: 0.18 MB/s | Chrome CPU: 0.6% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:06 | CPU: 15.0% | RAM: 59.2% | Mreza: 0.36 MB/s | Chrome CPU: 0.8% RAM: 16.6% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:10 | CPU: 6.0% | RAM: 58.9% | Mreza: 0.15 MB/s | Chrome CPU: 10.7% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:12 | CPU: 24.6% | RAM: 58.8% | Mreza: 0.18 MB/s | Chrome CPU: 10.8% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:14 | CPU: 15.4% | RAM: 58.8% | Mreza: 0.2 MB/s | Chrome CPU: 11.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:18 | CPU: 9.5% | RAM: 58.8% | Mreza: 0.21 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:20 | CPU: 17.8% | RAM: 58.8% | Mreza: 0.16 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:22 | CPU: 18.8% | RAM: 58.7% | Mreza: 0.33 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:26 | CPU: 7.2% | RAM: 58.7% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 100.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:28 | CPU: 21.5% | RAM: 58.7% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:30 | CPU: 17.6% | RAM: 58.7% | Mreza: 0.17 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 22.6% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:34 | CPU: 8.6% | RAM: 58.7% | Mreza: 0.19 MB/s | Chrome CPU: 0.0% RAM: 16.5% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:36 | CPU: 16.3% | RAM: 58.6% | Mreza: 0.17 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:38 | CPU: 17.2% | RAM: 58.7% | Mreza: 0.2 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:42 | CPU: 6.6% | RAM: 58.7% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:44 | CPU: 12.4% | RAM: 58.6% | Mreza: 0.16 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:46 | CPU: 14.8% | RAM: 58.6% | Mreza: 0.18 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:50 | CPU: 5.7% | RAM: 58.6% | Mreza: 0.19 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:52 | CPU: 14.1% | RAM: 58.6% | Mreza: 0.31 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:54 | CPU: 17.8% | RAM: 58.6% | Mreza: 0.18 MB/s | Chrome CPU: 2.3% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:22:58 | CPU: 4.1% | RAM: 58.6% | Mreza: 0.18 MB/s | Chrome CPU: 2.1% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:00 | CPU: 14.6% | RAM: 58.6% | Mreza: 0.16 MB/s | Chrome CPU: 0.0% RAM: 16.5% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:02 | CPU: 13.8% | RAM: 58.6% | Mreza: 0.17 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:06 | CPU: 2.7% | RAM: 58.6% | Mreza: 0.18 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 17.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:08 | CPU: 13.0% | RAM: 58.6% | Mreza: 0.25 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:10 | CPU: 15.4% | RAM: 58.6% | Mreza: 0.15 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:14 | CPU: 3.1% | RAM: 58.7% | Mreza: 0.21 MB/s | Chrome CPU: 1.9% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:16 | CPU: 11.7% | RAM: 58.7% | Mreza: 0.18 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 10.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:18 | CPU: 14.6% | RAM: 58.7% | Mreza: 0.22 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:22 | CPU: 17.2% | RAM: 57.7% | Mreza: 0.27 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:23 | CPU: 16.7% | RAM: 57.7% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:26 | CPU: 18.1% | RAM: 57.7% | Mreza: 0.2 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:30 | CPU: 7.2% | RAM: 57.7% | Mreza: 0.21 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:31 | CPU: 17.3% | RAM: 57.7% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:34 | CPU: 18.6% | RAM: 57.7% | Mreza: 0.2 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:38 | CPU: 10.5% | RAM: 57.7% | Mreza: 0.27 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 6.9% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:39 | CPU: 17.0% | RAM: 57.7% | Mreza: 0.16 MB/s | Chrome CPU: 0.0% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:42 | CPU: 15.1% | RAM: 57.7% | Mreza: 0.2 MB/s | Chrome CPU: 0.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:46 | CPU: 5.2% | RAM: 57.7% | Mreza: 0.18 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:47 | CPU: 15.1% | RAM: 57.7% | Mreza: 0.17 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:49 | CPU: 13.6% | RAM: 57.7% | Mreza: 0.19 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:54 | CPU: 10.1% | RAM: 57.7% | Mreza: 0.2 MB/s | Chrome CPU: 0.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:55 | CPU: 12.0% | RAM: 57.7% | Mreza: 0.16 MB/s | Chrome CPU: 0.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:23:57 | CPU: 17.9% | RAM: 57.7% | Mreza: 0.14 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:02 | CPU: 9.9% | RAM: 57.7% | Mreza: 0.19 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:03 | CPU: 13.4% | RAM: 57.7% | Mreza: 0.18 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 26.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:05 | CPU: 23.7% | RAM: 57.7% | Mreza: 0.18 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:10 | CPU: 7.4% | RAM: 57.7% | Mreza: 0.19 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:11 | CPU: 13.3% | RAM: 57.7% | Mreza: 0.15 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:13 | CPU: 17.0% | RAM: 57.7% | Mreza: 0.16 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:17 | CPU: 7.5% | RAM: 57.7% | Mreza: 0.21 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:19 | CPU: 13.3% | RAM: 57.6% | Mreza: 0.13 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 13.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:21 | CPU: 21.4% | RAM: 57.7% | Mreza: 0.14 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:25 | CPU: 7.2% | RAM: 58.1% | Mreza: 0.19 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:27 | CPU: 14.3% | RAM: 58.1% | Mreza: 0.14 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:29 | CPU: 17.7% | RAM: 58.1% | Mreza: 0.18 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:34 | CPU: 14.5% | RAM: 58.2% | Mreza: 0.2 MB/s | Chrome CPU: 1.2% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:35 | CPU: 17.7% | RAM: 58.2% | Mreza: 0.14 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:37 | CPU: 19.2% | RAM: 58.2% | Mreza: 0.17 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:41 | CPU: 6.2% | RAM: 58.2% | Mreza: 0.19 MB/s | Chrome CPU: 1.9% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:43 | CPU: 14.6% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 1.9% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:45 | CPU: 17.0% | RAM: 58.2% | Mreza: 0.12 MB/s | Chrome CPU: 1.5% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:49 | CPU: 4.5% | RAM: 58.2% | Mreza: 0.14 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:51 | CPU: 15.0% | RAM: 58.2% | Mreza: 0.22 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:53 | CPU: 20.3% | RAM: 58.1% | Mreza: 0.27 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:57 | CPU: 10.6% | RAM: 58.1% | Mreza: 0.27 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:24:59 | CPU: 13.1% | RAM: 58.1% | Mreza: 0.09 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:01 | CPU: 19.8% | RAM: 58.1% | Mreza: 0.26 MB/s | Chrome CPU: 0.2% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:05 | CPU: 7.6% | RAM: 58.1% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:07 | CPU: 15.8% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:09 | CPU: 17.7% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:13 | CPU: 4.1% | RAM: 58.1% | Mreza: 0.14 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:15 | CPU: 18.1% | RAM: 58.2% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:17 | CPU: 17.2% | RAM: 58.2% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:21 | CPU: 3.9% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:23 | CPU: 16.4% | RAM: 58.0% | Mreza: 0.29 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 10.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:25 | CPU: 18.5% | RAM: 58.1% | Mreza: 0.11 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 6.6% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:29 | CPU: 3.1% | RAM: 58.1% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:31 | CPU: 18.0% | RAM: 58.0% | Mreza: 0.13 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:33 | CPU: 17.4% | RAM: 58.1% | Mreza: 0.13 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:37 | CPU: 10.9% | RAM: 58.1% | Mreza: 0.16 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:39 | CPU: 23.6% | RAM: 58.0% | Mreza: 0.26 MB/s | Chrome CPU: 0.8% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:41 | CPU: 16.9% | RAM: 58.1% | Mreza: 0.12 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 7.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:45 | CPU: 4.6% | RAM: 58.1% | Mreza: 0.18 MB/s | Chrome CPU: 1.4% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:47 | CPU: 16.1% | RAM: 58.0% | Mreza: 0.12 MB/s | Chrome CPU: 1.4% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:49 | CPU: 17.7% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 1.4% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:53 | CPU: 5.3% | RAM: 58.0% | Mreza: 0.13 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:55 | CPU: 14.2% | RAM: 58.0% | Mreza: 0.12 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:25:57 | CPU: 15.5% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:01 | CPU: 4.5% | RAM: 58.0% | Mreza: 0.13 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 100.1% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:03 | CPU: 27.4% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 1.6% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:05 | CPU: 16.1% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 1.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:09 | CPU: 6.1% | RAM: 58.0% | Mreza: 0.18 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:11 | CPU: 16.9% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 0.6% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:13 | CPU: 18.1% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.4% RAM: 16.5% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:17 | CPU: 7.4% | RAM: 58.1% | Mreza: 0.11 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:19 | CPU: 16.4% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:21 | CPU: 17.9% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:25 | CPU: 4.7% | RAM: 58.0% | Mreza: 0.1 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:27 | CPU: 16.3% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:29 | CPU: 15.7% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:33 | CPU: 6.2% | RAM: 58.0% | Mreza: 0.12 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:35 | CPU: 16.1% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:37 | CPU: 14.3% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:41 | CPU: 4.9% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:43 | CPU: 16.1% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:45 | CPU: 16.8% | RAM: 58.0% | Mreza: 0.13 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:49 | CPU: 6.4% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:51 | CPU: 12.1% | RAM: 58.0% | Mreza: 0.23 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:53 | CPU: 15.2% | RAM: 58.0% | Mreza: 0.12 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:57 | CPU: 4.9% | RAM: 58.0% | Mreza: 0.13 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:26:59 | CPU: 12.5% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:01 | CPU: 16.2% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:05 | CPU: 6.2% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 2.9% RAM: 15.7% | iVMS CPU: 96.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:07 | CPU: 19.7% | RAM: 58.0% | Mreza: 0.17 MB/s | Chrome CPU: 2.7% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:09 | CPU: 21.4% | RAM: 58.0% | Mreza: 0.17 MB/s | Chrome CPU: 2.9% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:13 | CPU: 9.7% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 6.9% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:15 | CPU: 14.2% | RAM: 58.0% | Mreza: 0.17 MB/s | Chrome CPU: 1.9% RAM: 15.7% | iVMS CPU: 10.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:16 | CPU: 17.3% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 1.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:21 | CPU: 5.4% | RAM: 58.0% | Mreza: 0.18 MB/s | Chrome CPU: 1.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:23 | CPU: 14.0% | RAM: 58.0% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 3.6% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:24 | CPU: 16.5% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:29 | CPU: 4.7% | RAM: 58.0% | Mreza: 0.14 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:31 | CPU: 14.8% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:32 | CPU: 15.0% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:37 | CPU: 8.7% | RAM: 58.2% | Mreza: 0.16 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:39 | CPU: 15.0% | RAM: 58.2% | Mreza: 0.17 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:40 | CPU: 16.9% | RAM: 58.2% | Mreza: 0.3 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.3%
+2026-07-07 14:27:45 | CPU: 5.3% | RAM: 58.2% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:27:47 | CPU: 17.5% | RAM: 58.2% | Mreza: 0.13 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:27:48 | CPU: 15.8% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:27:53 | CPU: 7.0% | RAM: 58.2% | Mreza: 0.28 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 15.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:27:55 | CPU: 22.7% | RAM: 58.1% | Mreza: 0.37 MB/s | Chrome CPU: 2.2% RAM: 15.8% | iVMS CPU: 19.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:27:56 | CPU: 34.1% | RAM: 58.3% | Mreza: 0.36 MB/s | Chrome CPU: 11.5% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:01 | CPU: 5.6% | RAM: 58.2% | Mreza: 0.13 MB/s | Chrome CPU: 22.4% RAM: 15.8% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:03 | CPU: 17.0% | RAM: 58.3% | Mreza: 0.19 MB/s | Chrome CPU: 13.3% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:04 | CPU: 15.9% | RAM: 58.2% | Mreza: 0.21 MB/s | Chrome CPU: 20.9% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:09 | CPU: 8.1% | RAM: 58.2% | Mreza: 0.19 MB/s | Chrome CPU: 23.9% RAM: 15.8% | iVMS CPU: 12.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:11 | CPU: 23.4% | RAM: 58.2% | Mreza: 0.3 MB/s | Chrome CPU: 28.5% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:12 | CPU: 15.8% | RAM: 58.2% | Mreza: 0.3 MB/s | Chrome CPU: 35.5% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:17 | CPU: 6.0% | RAM: 58.4% | Mreza: 0.22 MB/s | Chrome CPU: 37.9% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:19 | CPU: 20.0% | RAM: 58.4% | Mreza: 0.3 MB/s | Chrome CPU: 36.4% RAM: 15.9% | iVMS CPU: 11.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:21 | CPU: 24.2% | RAM: 58.4% | Mreza: 0.26 MB/s | Chrome CPU: 32.5% RAM: 16.0% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:25 | CPU: 21.8% | RAM: 58.5% | Mreza: 0.18 MB/s | Chrome CPU: 30.6% RAM: 16.1% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:27 | CPU: 23.2% | RAM: 58.5% | Mreza: 0.17 MB/s | Chrome CPU: 24.6% RAM: 15.9% | iVMS CPU: 9.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:29 | CPU: 26.8% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 15.5% RAM: 15.9% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:33 | CPU: 12.6% | RAM: 58.3% | Mreza: 0.25 MB/s | Chrome CPU: 4.8% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:35 | CPU: 16.0% | RAM: 58.3% | Mreza: 0.18 MB/s | Chrome CPU: 1.2% RAM: 15.9% | iVMS CPU: 5.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:37 | CPU: 33.5% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:41 | CPU: 10.6% | RAM: 58.6% | Mreza: 0.17 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:44 | CPU: 8.8% | RAM: 58.6% | Mreza: 0.19 MB/s | Chrome CPU: 1.0% RAM: 15.9% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:45 | CPU: 18.6% | RAM: 58.5% | Mreza: 0.18 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 2.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:48 | ==================================================
+2026-07-07 14:28:48 | POKRECEM USER MONITOR
+2026-07-07 14:28:48 | ==================================================
+2026-07-07 14:28:49 | CPU: 7.8% | RAM: 58.7% | Mreza: 0.28 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:50 | CPU: 17.5% | RAM: 58.6% | Mreza: 0.24 MB/s
+2026-07-07 14:28:52 | CPU: 9.0% | RAM: 58.6% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 6.6% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:53 | CPU: 14.8% | RAM: 58.6% | Mreza: 0.26 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:57 | CPU: 5.7% | RAM: 58.6% | Mreza: 0.33 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:28:57 | CPU: 8.0% | RAM: 58.6% | Mreza: 0.19 MB/s
+2026-07-07 14:29:00 | CPU: 6.5% | RAM: 58.6% | Mreza: 0.2 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:01 | CPU: 17.6% | RAM: 58.6% | Mreza: 0.16 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 12.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:04 | CPU: 13.6% | RAM: 58.4% | Mreza: 0.17 MB/s
+2026-07-07 14:29:05 | CPU: 13.2% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 1.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:08 | CPU: 10.3% | RAM: 58.4% | Mreza: 0.19 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 19.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:10 | CPU: 22.8% | RAM: 58.5% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:11 | CPU: 14.9% | RAM: 58.4% | Mreza: 0.31 MB/s
+2026-07-07 14:29:13 | CPU: 9.2% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:16 | CPU: 10.7% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:18 | CPU: 17.4% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:18 | CPU: 14.7% | RAM: 58.4% | Mreza: 0.2 MB/s
+2026-07-07 14:29:21 | CPU: 7.9% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 3.1% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:24 | CPU: 9.7% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 3.3% RAM: 15.8% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:25 | CPU: 15.7% | RAM: 58.4% | Mreza: 0.19 MB/s
+2026-07-07 14:29:26 | CPU: 17.0% | RAM: 58.4% | Mreza: 0.19 MB/s | Chrome CPU: 3.3% RAM: 15.8% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:29 | CPU: 5.8% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:32 | CPU: 9.4% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:32 | CPU: 10.7% | RAM: 58.4% | Mreza: 0.14 MB/s
+2026-07-07 14:29:34 | CPU: 16.3% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:37 | CPU: 7.0% | RAM: 58.3% | Mreza: 0.17 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:39 | CPU: 9.6% | RAM: 58.3% | Mreza: 0.16 MB/s
+2026-07-07 14:29:40 | CPU: 10.5% | RAM: 58.3% | Mreza: 0.16 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:42 | CPU: 24.5% | RAM: 58.5% | Mreza: 0.18 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:45 | CPU: 4.3% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 1.8% RAM: 15.8% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:46 | CPU: 17.1% | RAM: 58.4% | Mreza: 0.16 MB/s
+2026-07-07 14:29:48 | CPU: 13.0% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 1.6% RAM: 15.8% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:50 | CPU: 17.9% | RAM: 58.4% | Mreza: 0.19 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:53 | CPU: 9.9% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:53 | CPU: 8.9% | RAM: 58.4% | Mreza: 0.19 MB/s
+2026-07-07 14:29:56 | CPU: 8.5% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:29:58 | CPU: 15.6% | RAM: 58.4% | Mreza: 0.33 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:00 | CPU: 7.4% | RAM: 58.5% | Mreza: 0.16 MB/s
+2026-07-07 14:30:01 | CPU: 8.0% | RAM: 58.5% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:04 | CPU: 9.4% | RAM: 58.5% | Mreza: 0.21 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:06 | CPU: 20.2% | RAM: 58.4% | Mreza: 0.21 MB/s | Chrome CPU: 1.8% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:07 | CPU: 12.9% | RAM: 58.4% | Mreza: 0.18 MB/s
+2026-07-07 14:30:09 | CPU: 6.6% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 1.6% RAM: 15.9% | iVMS CPU: 12.8% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:12 | CPU: 10.0% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 80.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:14 | CPU: 21.3% | RAM: 58.4% | Mreza: 0.2 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:14 | CPU: 11.2% | RAM: 58.4% | Mreza: 0.16 MB/s
+2026-07-07 14:30:17 | CPU: 3.3% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 0.2% RAM: 15.8% | iVMS CPU: 100.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:20 | CPU: 8.8% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:21 | CPU: 19.2% | RAM: 58.4% | Mreza: 0.2 MB/s
+2026-07-07 14:30:22 | CPU: 18.1% | RAM: 58.4% | Mreza: 0.19 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:25 | CPU: 5.8% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 1.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:28 | CPU: 13.1% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 8.3% RAM: 15.8% | iVMS CPU: 10.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:28 | CPU: 6.6% | RAM: 58.4% | Mreza: 0.14 MB/s
+2026-07-07 14:30:30 | CPU: 13.8% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 7.9% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:33 | CPU: 4.1% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 7.9% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:35 | CPU: 6.6% | RAM: 58.4% | Mreza: 0.14 MB/s
+2026-07-07 14:30:36 | CPU: 7.2% | RAM: 58.4% | Mreza: 0.13 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:38 | CPU: 19.8% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 12.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:41 | CPU: 6.8% | RAM: 58.4% | Mreza: 0.11 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 58.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:42 | CPU: 20.5% | RAM: 58.4% | Mreza: 0.15 MB/s
+2026-07-07 14:30:44 | CPU: 10.5% | RAM: 58.4% | Mreza: 0.13 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:46 | CPU: 14.0% | RAM: 58.4% | Mreza: 0.12 MB/s | Chrome CPU: 1.2% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:49 | CPU: 3.1% | RAM: 58.4% | Mreza: 0.11 MB/s | Chrome CPU: 1.0% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:49 | CPU: 3.7% | RAM: 58.4% | Mreza: 0.19 MB/s
+2026-07-07 14:30:52 | CPU: 8.3% | RAM: 58.4% | Mreza: 0.24 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:54 | CPU: 14.6% | RAM: 58.4% | Mreza: 0.3 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:30:56 | CPU: 7.6% | RAM: 58.4% | Mreza: 0.26 MB/s
+2026-07-07 14:30:57 | CPU: 7.9% | RAM: 58.4% | Mreza: 0.26 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:00 | CPU: 5.1% | RAM: 58.5% | Mreza: 0.16 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:02 | CPU: 12.9% | RAM: 58.4% | Mreza: 0.18 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:03 | CPU: 15.9% | RAM: 58.5% | Mreza: 0.18 MB/s
+2026-07-07 14:31:05 | CPU: 5.2% | RAM: 58.5% | Mreza: 0.16 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:08 | CPU: 7.8% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:10 | CPU: 14.6% | RAM: 58.4% | Mreza: 0.2 MB/s | Chrome CPU: 0.8% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:10 | CPU: 8.8% | RAM: 58.4% | Mreza: 0.15 MB/s
+2026-07-07 14:31:13 | CPU: 4.7% | RAM: 58.4% | Mreza: 0.3 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 9.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:16 | CPU: 6.6% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:17 | CPU: 14.6% | RAM: 58.4% | Mreza: 0.19 MB/s
+2026-07-07 14:31:18 | CPU: 16.1% | RAM: 58.4% | Mreza: 0.2 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:21 | CPU: 2.1% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:24 | CPU: 10.5% | RAM: 58.4% | Mreza: 0.2 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:24 | CPU: 10.1% | RAM: 58.3% | Mreza: 0.19 MB/s
+2026-07-07 14:31:26 | CPU: 21.6% | RAM: 58.3% | Mreza: 0.17 MB/s | Chrome CPU: 3.6% RAM: 15.7% | iVMS CPU: 5.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:29 | CPU: 6.6% | RAM: 58.4% | Mreza: 0.3 MB/s | Chrome CPU: 13.1% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:31 | CPU: 9.1% | RAM: 58.3% | Mreza: 0.21 MB/s
+2026-07-07 14:31:32 | CPU: 8.5% | RAM: 58.3% | Mreza: 0.33 MB/s | Chrome CPU: 13.4% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:34 | CPU: 19.5% | RAM: 58.3% | Mreza: 0.23 MB/s | Chrome CPU: 9.4% RAM: 15.7% | iVMS CPU: 6.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:37 | CPU: 3.9% | RAM: 58.3% | Mreza: 0.19 MB/s | Chrome CPU: 4.6% RAM: 15.7% | iVMS CPU: 13.6% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:38 | CPU: 14.1% | RAM: 58.3% | Mreza: 0.17 MB/s
+2026-07-07 14:31:40 | CPU: 12.0% | RAM: 58.3% | Mreza: 0.16 MB/s | Chrome CPU: 2.4% RAM: 15.7% | iVMS CPU: 13.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:42 | CPU: 18.4% | RAM: 58.3% | Mreza: 0.19 MB/s | Chrome CPU: 2.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:45 | CPU: 5.1% | RAM: 58.2% | Mreza: 0.16 MB/s | Chrome CPU: 2.2% RAM: 15.7% | iVMS CPU: 82.8% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:45 | CPU: 9.1% | RAM: 58.2% | Mreza: 0.16 MB/s
+2026-07-07 14:31:48 | CPU: 12.1% | RAM: 58.2% | Mreza: 0.18 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:50 | CPU: 13.6% | RAM: 58.2% | Mreza: 0.14 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 46.6% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:52 | CPU: 10.1% | RAM: 58.2% | Mreza: 0.17 MB/s
+2026-07-07 14:31:53 | CPU: 10.2% | RAM: 58.2% | Mreza: 0.17 MB/s | Chrome CPU: 1.4% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:56 | CPU: 4.3% | RAM: 58.2% | Mreza: 0.15 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:58 | CPU: 13.5% | RAM: 58.2% | Mreza: 0.17 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:31:59 | CPU: 9.7% | RAM: 58.2% | Mreza: 0.18 MB/s
+2026-07-07 14:32:01 | CPU: 5.8% | RAM: 58.2% | Mreza: 0.16 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 6.8% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:04 | CPU: 6.8% | RAM: 58.2% | Mreza: 0.17 MB/s | Chrome CPU: 0.0% RAM: 15.7% | iVMS CPU: 7.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:05 | CPU: 13.1% | RAM: 58.2% | Mreza: 0.1 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 3.6% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:06 | CPU: 11.9% | RAM: 58.2% | Mreza: 0.12 MB/s
+2026-07-07 14:32:09 | CPU: 5.8% | RAM: 58.2% | Mreza: 0.21 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 6.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:11 | CPU: 4.3% | RAM: 58.2% | Mreza: 0.17 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 7.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:13 | CPU: 5.9% | RAM: 58.2% | Mreza: 0.33 MB/s
+2026-07-07 14:32:13 | CPU: 16.9% | RAM: 58.2% | Mreza: 0.11 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 69.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:16 | CPU: 4.9% | RAM: 58.2% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 6.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:19 | CPU: 7.6% | RAM: 58.2% | Mreza: 0.09 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:20 | CPU: 30.5% | RAM: 58.4% | Mreza: 0.18 MB/s
+2026-07-07 14:32:21 | CPU: 28.9% | RAM: 58.5% | Mreza: 0.17 MB/s | Chrome CPU: 1.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:24 | CPU: 5.6% | RAM: 58.5% | Mreza: 0.16 MB/s | Chrome CPU: 1.9% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:27 | CPU: 4.5% | RAM: 58.5% | Mreza: 0.14 MB/s
+2026-07-07 14:32:27 | CPU: 4.1% | RAM: 58.5% | Mreza: 0.12 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:29 | CPU: 14.6% | RAM: 58.5% | Mreza: 0.11 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:32 | CPU: 5.8% | RAM: 58.5% | Mreza: 0.18 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:34 | CPU: 6.0% | RAM: 58.5% | Mreza: 0.12 MB/s
+2026-07-07 14:32:35 | CPU: 5.0% | RAM: 58.5% | Mreza: 0.13 MB/s | Chrome CPU: 0.2% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:37 | CPU: 17.3% | RAM: 58.5% | Mreza: 0.43 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:40 | CPU: 3.9% | RAM: 58.5% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:41 | CPU: 12.9% | RAM: 58.5% | Mreza: 0.15 MB/s
+2026-07-07 14:32:43 | CPU: 1.9% | RAM: 58.5% | Mreza: 0.12 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:45 | CPU: 15.3% | RAM: 58.5% | Mreza: 0.26 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:48 | CPU: 2.1% | RAM: 58.5% | Mreza: 0.48 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:48 | CPU: 8.0% | RAM: 58.5% | Mreza: 0.1 MB/s
+2026-07-07 14:32:51 | CPU: 8.9% | RAM: 58.5% | Mreza: 0.17 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:53 | CPU: 14.0% | RAM: 58.5% | Mreza: 0.36 MB/s | Chrome CPU: 1.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:55 | CPU: 6.0% | RAM: 58.5% | Mreza: 0.23 MB/s
+2026-07-07 14:32:56 | CPU: 3.9% | RAM: 58.5% | Mreza: 0.2 MB/s | Chrome CPU: 1.8% RAM: 15.7% | iVMS CPU: 6.6% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:32:59 | CPU: 6.8% | RAM: 58.5% | Mreza: 0.2 MB/s | Chrome CPU: 2.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:01 | CPU: 17.3% | RAM: 58.5% | Mreza: 0.17 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:02 | CPU: 16.8% | RAM: 58.6% | Mreza: 0.16 MB/s
+2026-07-07 14:33:04 | CPU: 5.2% | RAM: 58.5% | Mreza: 0.18 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 10.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:07 | CPU: 3.9% | RAM: 58.5% | Mreza: 0.14 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:09 | CPU: 20.2% | RAM: 58.1% | Mreza: 0.14 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:09 | CPU: 8.4% | RAM: 58.0% | Mreza: 0.15 MB/s
+2026-07-07 14:33:12 | CPU: 4.8% | RAM: 58.1% | Mreza: 0.2 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:15 | CPU: 5.1% | RAM: 58.1% | Mreza: 0.2 MB/s | Chrome CPU: 0.4% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:16 | CPU: 11.0% | RAM: 58.1% | Mreza: 0.1 MB/s
+2026-07-07 14:33:17 | CPU: 13.7% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 0.6% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:20 | CPU: 9.6% | RAM: 58.1% | Mreza: 0.17 MB/s | Chrome CPU: 4.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:23 | CPU: 6.6% | RAM: 58.0% | Mreza: 0.16 MB/s | Chrome CPU: 4.4% RAM: 15.7% | iVMS CPU: 61.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:23 | CPU: 9.4% | RAM: 58.0% | Mreza: 0.18 MB/s
+2026-07-07 14:33:25 | CPU: 19.9% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 4.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:28 | CPU: 6.8% | RAM: 58.0% | Mreza: 0.15 MB/s | Chrome CPU: 2.5% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:30 | CPU: 16.7% | RAM: 58.0% | Mreza: 0.13 MB/s
+2026-07-07 14:33:31 | CPU: 18.6% | RAM: 58.1% | Mreza: 0.16 MB/s | Chrome CPU: 2.3% RAM: 15.7% | iVMS CPU: 11.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:33 | CPU: 38.8% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 2.1% RAM: 15.7% | iVMS CPU: 5.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:36 | CPU: 11.1% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:37 | CPU: 26.8% | RAM: 58.0% | Mreza: 0.22 MB/s
+2026-07-07 14:33:39 | CPU: 21.1% | RAM: 58.1% | Mreza: 0.14 MB/s | Chrome CPU: 2.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:41 | CPU: 19.5% | RAM: 58.1% | Mreza: 0.15 MB/s | Chrome CPU: 2.6% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:44 | CPU: 6.6% | RAM: 58.1% | Mreza: 0.16 MB/s | Chrome CPU: 2.8% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:44 | CPU: 10.7% | RAM: 58.1% | Mreza: 0.11 MB/s
+2026-07-07 14:33:47 | CPU: 4.5% | RAM: 58.1% | Mreza: 0.14 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 100.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:49 | CPU: 23.5% | RAM: 58.1% | Mreza: 0.13 MB/s | Chrome CPU: 0.8% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:52 | CPU: 5.3% | RAM: 58.1% | Mreza: 0.32 MB/s
+2026-07-07 14:33:52 | CPU: 6.9% | RAM: 58.1% | Mreza: 0.22 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 15.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:55 | CPU: 18.2% | RAM: 58.2% | Mreza: 0.35 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 9.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:57 | CPU: 18.9% | RAM: 58.2% | Mreza: 0.27 MB/s | Chrome CPU: 1.4% RAM: 15.7% | iVMS CPU: 5.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:33:59 | CPU: 13.6% | RAM: 58.2% | Mreza: 0.13 MB/s
+2026-07-07 14:34:00 | CPU: 16.5% | RAM: 58.3% | Mreza: 0.16 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:03 | CPU: 9.1% | RAM: 58.3% | Mreza: 0.15 MB/s | Chrome CPU: 2.0% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:05 | CPU: 16.4% | RAM: 58.3% | Mreza: 0.15 MB/s | Chrome CPU: 8.7% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:06 | CPU: 20.1% | RAM: 58.3% | Mreza: 0.43 MB/s
+2026-07-07 14:34:08 | CPU: 9.7% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 33.7% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:11 | CPU: 9.0% | RAM: 58.3% | Mreza: 0.13 MB/s | Chrome CPU: 38.2% RAM: 15.8% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:13 | CPU: 10.3% | RAM: 58.3% | Mreza: 0.13 MB/s
+2026-07-07 14:34:13 | CPU: 14.2% | RAM: 58.3% | Mreza: 0.13 MB/s | Chrome CPU: 21.3% RAM: 15.8% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:16 | CPU: 7.6% | RAM: 58.3% | Mreza: 0.16 MB/s | Chrome CPU: 14.7% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:19 | CPU: 7.4% | RAM: 58.2% | Mreza: 0.14 MB/s | Chrome CPU: 13.1% RAM: 15.7% | iVMS CPU: 13.8% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:20 | CPU: 14.2% | RAM: 58.3% | Mreza: 0.14 MB/s
+2026-07-07 14:34:21 | CPU: 17.3% | RAM: 58.3% | Mreza: 0.15 MB/s | Chrome CPU: 18.8% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:24 | CPU: 7.2% | RAM: 58.4% | Mreza: 0.17 MB/s | Chrome CPU: 35.1% RAM: 16.0% | iVMS CPU: 6.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:27 | CPU: 16.3% | RAM: 58.7% | Mreza: 0.14 MB/s
+2026-07-07 14:34:27 | CPU: 16.3% | RAM: 58.7% | Mreza: 0.19 MB/s | Chrome CPU: 53.4% RAM: 16.1% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:29 | CPU: 25.0% | RAM: 58.9% | Mreza: 0.13 MB/s | Chrome CPU: 64.9% RAM: 16.2% | iVMS CPU: 6.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:32 | CPU: 11.6% | RAM: 59.0% | Mreza: 0.29 MB/s | Chrome CPU: 58.8% RAM: 16.4% | iVMS CPU: 6.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:34 | CPU: 14.6% | RAM: 59.1% | Mreza: 0.22 MB/s
+2026-07-07 14:34:35 | CPU: 7.9% | RAM: 59.1% | Mreza: 0.15 MB/s | Chrome CPU: 36.1% RAM: 16.3% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:37 | CPU: 12.6% | RAM: 59.0% | Mreza: 0.14 MB/s | Chrome CPU: 13.7% RAM: 16.3% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:40 | CPU: 1.8% | RAM: 59.0% | Mreza: 0.14 MB/s | Chrome CPU: 9.7% RAM: 16.3% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:41 | CPU: 17.4% | RAM: 59.0% | Mreza: 0.14 MB/s
+2026-07-07 14:34:43 | CPU: 11.3% | RAM: 58.4% | Mreza: 0.18 MB/s | Chrome CPU: 19.0% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:45 | CPU: 13.2% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 21.5% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:48 | CPU: 5.0% | RAM: 58.4% | Mreza: 0.16 MB/s
+2026-07-07 14:34:48 | CPU: 4.5% | RAM: 58.4% | Mreza: 0.16 MB/s | Chrome CPU: 15.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:51 | CPU: 7.4% | RAM: 58.4% | Mreza: 0.2 MB/s | Chrome CPU: 20.4% RAM: 15.9% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:53 | CPU: 17.8% | RAM: 58.6% | Mreza: 0.15 MB/s | Chrome CPU: 34.5% RAM: 16.0% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:55 | CPU: 19.0% | RAM: 58.7% | Mreza: 0.18 MB/s
+2026-07-07 14:34:56 | CPU: 11.6% | RAM: 58.7% | Mreza: 0.15 MB/s | Chrome CPU: 53.3% RAM: 16.2% | iVMS CPU: 30.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:34:59 | CPU: 27.0% | RAM: 58.9% | Mreza: 0.28 MB/s | Chrome CPU: 48.5% RAM: 16.3% | iVMS CPU: 2.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:01 | CPU: 21.9% | RAM: 59.0% | Mreza: 0.12 MB/s | Chrome CPU: 42.5% RAM: 16.4% | iVMS CPU: 9.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:02 | CPU: 16.1% | RAM: 59.1% | Mreza: 0.18 MB/s
+2026-07-07 14:35:04 | CPU: 13.2% | RAM: 59.1% | Mreza: 0.14 MB/s | Chrome CPU: 40.2% RAM: 16.3% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:07 | CPU: 13.6% | RAM: 59.0% | Mreza: 0.15 MB/s | Chrome CPU: 54.1% RAM: 16.4% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:09 | CPU: 10.0% | RAM: 59.2% | Mreza: 0.14 MB/s
+2026-07-07 14:35:09 | CPU: 15.7% | RAM: 59.2% | Mreza: 0.15 MB/s | Chrome CPU: 44.6% RAM: 16.4% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:12 | CPU: 5.5% | RAM: 59.1% | Mreza: 0.13 MB/s | Chrome CPU: 25.4% RAM: 16.4% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:15 | CPU: 8.6% | RAM: 59.1% | Mreza: 0.14 MB/s | Chrome CPU: 7.0% RAM: 16.4% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:16 | CPU: 12.6% | RAM: 59.2% | Mreza: 0.15 MB/s
+2026-07-07 14:35:17 | CPU: 10.5% | RAM: 59.1% | Mreza: 0.14 MB/s | Chrome CPU: 6.8% RAM: 16.4% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:20 | CPU: 7.6% | RAM: 58.5% | Mreza: 0.12 MB/s | Chrome CPU: 13.9% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:23 | CPU: 9.1% | RAM: 58.3% | Mreza: 0.15 MB/s
+2026-07-07 14:35:23 | CPU: 15.8% | RAM: 58.4% | Mreza: 0.15 MB/s | Chrome CPU: 17.8% RAM: 15.7% | iVMS CPU: 2.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:25 | CPU: 24.9% | RAM: 58.4% | Mreza: 0.14 MB/s | Chrome CPU: 20.4% RAM: 15.7% | iVMS CPU: 3.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:28 | CPU: 5.4% | RAM: 58.3% | Mreza: 0.16 MB/s | Chrome CPU: 26.0% RAM: 15.8% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:30 | CPU: 12.0% | RAM: 58.5% | Mreza: 0.2 MB/s
+2026-07-07 14:35:31 | CPU: 9.3% | RAM: 58.5% | Mreza: 0.17 MB/s | Chrome CPU: 30.9% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:33 | CPU: 25.9% | RAM: 58.7% | Mreza: 0.16 MB/s | Chrome CPU: 39.1% RAM: 16.0% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:36 | CPU: 8.2% | RAM: 58.8% | Mreza: 0.13 MB/s | Chrome CPU: 52.2% RAM: 16.3% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:37 | CPU: 18.4% | RAM: 58.9% | Mreza: 0.27 MB/s
+2026-07-07 14:35:39 | CPU: 9.2% | RAM: 59.0% | Mreza: 0.13 MB/s | Chrome CPU: 49.9% RAM: 16.2% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:41 | CPU: 25.5% | RAM: 58.9% | Mreza: 0.13 MB/s | Chrome CPU: 37.5% RAM: 16.2% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:44 | CPU: 6.6% | RAM: 59.0% | Mreza: 0.13 MB/s
+2026-07-07 14:35:44 | CPU: 4.9% | RAM: 59.1% | Mreza: 0.14 MB/s | Chrome CPU: 16.8% RAM: 16.2% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:47 | CPU: 17.0% | RAM: 59.0% | Mreza: 0.12 MB/s | Chrome CPU: 7.0% RAM: 16.2% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:49 | CPU: 21.7% | RAM: 58.5% | Mreza: 0.12 MB/s | Chrome CPU: 12.3% RAM: 15.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:51 | CPU: 10.7% | RAM: 58.5% | Mreza: 0.12 MB/s
+2026-07-07 14:35:53 | CPU: 7.5% | RAM: 58.5% | Mreza: 0.12 MB/s | Chrome CPU: 10.8% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:55 | CPU: 69.3% | RAM: 58.9% | Mreza: 0.16 MB/s | Chrome CPU: 4.8% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:57 | CPU: 14.2% | RAM: 58.7% | Mreza: 0.12 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:35:58 | CPU: 8.6% | RAM: 58.6% | Mreza: 0.12 MB/s
+2026-07-07 14:36:01 | CPU: 20.3% | RAM: 58.7% | Mreza: 0.21 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:03 | CPU: 15.0% | RAM: 59.3% | Mreza: 0.18 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:05 | CPU: 14.4% | RAM: 59.6% | Mreza: 0.17 MB/s
+2026-07-07 14:36:05 | CPU: 27.1% | RAM: 59.6% | Mreza: 0.09 MB/s | Chrome CPU: 0.4% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:09 | CPU: 10.5% | RAM: 59.5% | Mreza: 0.13 MB/s | Chrome CPU: 3.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:11 | CPU: 26.7% | RAM: 59.4% | Mreza: 0.13 MB/s | Chrome CPU: 8.9% RAM: 15.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:12 | CPU: 16.1% | RAM: 59.4% | Mreza: 0.13 MB/s
+2026-07-07 14:36:13 | CPU: 16.6% | RAM: 59.5% | Mreza: 0.08 MB/s | Chrome CPU: 13.1% RAM: 15.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:17 | CPU: 8.4% | RAM: 59.5% | Mreza: 0.11 MB/s | Chrome CPU: 12.9% RAM: 15.7% | iVMS CPU: 2.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:19 | CPU: 18.6% | RAM: 59.4% | Mreza: 0.11 MB/s
+2026-07-07 14:36:19 | CPU: 24.5% | RAM: 59.5% | Mreza: 0.13 MB/s | Chrome CPU: 12.9% RAM: 15.6% | iVMS CPU: 6.4% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:21 | CPU: 14.4% | RAM: 59.4% | Mreza: 0.09 MB/s | Chrome CPU: 10.0% RAM: 15.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:25 | CPU: 6.2% | RAM: 59.3% | Mreza: 0.12 MB/s | Chrome CPU: 1.2% RAM: 15.6% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:26 | CPU: 13.9% | RAM: 59.3% | Mreza: 0.13 MB/s
+2026-07-07 14:36:27 | CPU: 15.1% | RAM: 59.3% | Mreza: 0.13 MB/s | Chrome CPU: 0.8% RAM: 15.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:29 | CPU: 13.3% | RAM: 59.3% | Mreza: 0.08 MB/s | Chrome CPU: 1.2% RAM: 15.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:33 | CPU: 7.5% | RAM: 58.6% | Mreza: 0.17 MB/s
+2026-07-07 14:36:33 | CPU: 17.0% | RAM: 58.6% | Mreza: 0.13 MB/s | Chrome CPU: 0.6% RAM: 15.6% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:35 | CPU: 15.5% | RAM: 58.6% | Mreza: 0.12 MB/s | Chrome CPU: 0.0% RAM: 15.6% | iVMS CPU: 9.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:37 | CPU: 13.3% | RAM: 58.6% | Mreza: 0.08 MB/s | Chrome CPU: 0.0% RAM: 15.6% | iVMS CPU: 2.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:40 | CPU: 7.7% | RAM: 58.6% | Mreza: 0.11 MB/s
+2026-07-07 14:36:41 | CPU: 7.2% | RAM: 58.6% | Mreza: 0.11 MB/s | Chrome CPU: 7.7% RAM: 15.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:43 | CPU: 17.1% | RAM: 58.6% | Mreza: 0.12 MB/s | Chrome CPU: 15.1% RAM: 15.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:45 | CPU: 15.3% | RAM: 58.6% | Mreza: 0.11 MB/s | Chrome CPU: 24.7% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:47 | CPU: 8.4% | RAM: 58.6% | Mreza: 0.15 MB/s
+2026-07-07 14:36:49 | CPU: 11.7% | RAM: 58.6% | Mreza: 0.12 MB/s | Chrome CPU: 36.5% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:51 | CPU: 18.5% | RAM: 58.7% | Mreza: 0.29 MB/s | Chrome CPU: 38.6% RAM: 16.0% | iVMS CPU: 5.9% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:53 | CPU: 20.2% | RAM: 59.0% | Mreza: 0.28 MB/s | Chrome CPU: 39.1% RAM: 16.3% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:54 | CPU: 19.5% | RAM: 59.1% | Mreza: 0.29 MB/s
+2026-07-07 14:36:57 | CPU: 12.3% | RAM: 59.1% | Mreza: 0.3 MB/s | Chrome CPU: 28.4% RAM: 16.4% | iVMS CPU: 9.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:36:59 | CPU: 23.7% | RAM: 59.2% | Mreza: 0.19 MB/s | Chrome CPU: 23.6% RAM: 16.4% | iVMS CPU: 12.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:01 | CPU: 9.6% | RAM: 59.3% | Mreza: 0.17 MB/s
+2026-07-07 14:37:02 | CPU: 17.8% | RAM: 59.2% | Mreza: 0.12 MB/s | Chrome CPU: 25.3% RAM: 16.4% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:05 | CPU: 11.7% | RAM: 59.3% | Mreza: 0.17 MB/s | Chrome CPU: 38.4% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:07 | CPU: 23.7% | RAM: 59.4% | Mreza: 0.14 MB/s | Chrome CPU: 46.1% RAM: 16.8% | iVMS CPU: 2.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:08 | CPU: 33.7% | RAM: 59.7% | Mreza: 0.29 MB/s
+2026-07-07 14:37:10 | CPU: 31.1% | RAM: 59.8% | Mreza: 0.12 MB/s | Chrome CPU: 41.5% RAM: 17.0% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:13 | CPU: 10.7% | RAM: 59.8% | Mreza: 0.19 MB/s | Chrome CPU: 40.8% RAM: 17.1% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:15 | CPU: 11.8% | RAM: 59.8% | Mreza: 0.17 MB/s
+2026-07-07 14:37:15 | CPU: 18.3% | RAM: 59.8% | Mreza: 0.13 MB/s | Chrome CPU: 26.5% RAM: 17.0% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:18 | CPU: 12.8% | RAM: 59.8% | Mreza: 0.2 MB/s | Chrome CPU: 28.0% RAM: 16.5% | iVMS CPU: 6.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:21 | CPU: 25.9% | RAM: 59.0% | Mreza: 0.16 MB/s | Chrome CPU: 20.5% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:22 | CPU: 15.8% | RAM: 58.9% | Mreza: 0.19 MB/s
+2026-07-07 14:37:23 | CPU: 16.3% | RAM: 59.0% | Mreza: 0.12 MB/s | Chrome CPU: 20.8% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:26 | CPU: 14.0% | RAM: 58.9% | Mreza: 0.19 MB/s | Chrome CPU: 10.9% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:29 | CPU: 17.3% | RAM: 58.9% | Mreza: 0.17 MB/s
+2026-07-07 14:37:29 | CPU: 9.9% | RAM: 58.9% | Mreza: 0.14 MB/s | Chrome CPU: 22.0% RAM: 15.9% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:31 | CPU: 16.0% | RAM: 58.8% | Mreza: 0.1 MB/s | Chrome CPU: 20.6% RAM: 15.8% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:34 | CPU: 11.5% | RAM: 58.8% | Mreza: 0.33 MB/s | Chrome CPU: 20.0% RAM: 15.8% | iVMS CPU: 6.6% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:36 | CPU: 5.4% | RAM: 58.8% | Mreza: 0.14 MB/s
+2026-07-07 14:37:37 | CPU: 5.3% | RAM: 58.8% | Mreza: 0.14 MB/s | Chrome CPU: 6.8% RAM: 15.9% | iVMS CPU: 2.8% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:39 | CPU: 32.4% | RAM: 58.9% | Mreza: 0.14 MB/s | Chrome CPU: 20.4% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:42 | CPU: 15.2% | RAM: 58.9% | Mreza: 0.12 MB/s | Chrome CPU: 27.5% RAM: 15.9% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:43 | CPU: 28.2% | RAM: 58.7% | Mreza: 0.19 MB/s
+2026-07-07 14:37:46 | CPU: 8.0% | RAM: 58.7% | Mreza: 0.16 MB/s | Chrome CPU: 23.6% RAM: 15.9% | iVMS CPU: 4.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:48 | CPU: 40.2% | RAM: 59.1% | Mreza: 0.56 MB/s | Chrome CPU: 65.8% RAM: 16.7% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:50 | CPU: 11.9% | RAM: 59.5% | Mreza: 0.22 MB/s | Chrome CPU: 63.4% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:50 | CPU: 13.3% | RAM: 59.4% | Mreza: 0.18 MB/s
+2026-07-07 14:37:53 | CPU: 11.5% | RAM: 59.4% | Mreza: 0.13 MB/s | Chrome CPU: 68.8% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:56 | CPU: 17.5% | RAM: 59.4% | Mreza: 0.16 MB/s | Chrome CPU: 22.0% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:37:57 | CPU: 15.7% | RAM: 59.4% | Mreza: 0.16 MB/s
+2026-07-07 14:37:58 | CPU: 16.4% | RAM: 59.4% | Mreza: 0.17 MB/s | Chrome CPU: 18.1% RAM: 16.6% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:02 | CPU: 25.2% | RAM: 59.3% | Mreza: 0.14 MB/s | Chrome CPU: 20.5% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:04 | CPU: 27.3% | RAM: 59.3% | Mreza: 0.16 MB/s | Chrome CPU: 29.5% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:04 | CPU: 23.2% | RAM: 59.4% | Mreza: 0.14 MB/s
+2026-07-07 14:38:06 | CPU: 15.2% | RAM: 59.4% | Mreza: 0.19 MB/s | Chrome CPU: 26.4% RAM: 16.6% | iVMS CPU: 78.7% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:10 | CPU: 9.3% | RAM: 59.4% | Mreza: 0.14 MB/s | Chrome CPU: 18.7% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:11 | CPU: 20.1% | RAM: 59.3% | Mreza: 0.19 MB/s
+2026-07-07 14:38:12 | CPU: 21.6% | RAM: 59.3% | Mreza: 0.15 MB/s | Chrome CPU: 31.3% RAM: 16.6% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:14 | CPU: 20.0% | RAM: 59.4% | Mreza: 0.2 MB/s | Chrome CPU: 29.1% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:18 | CPU: 22.1% | RAM: 59.4% | Mreza: 0.16 MB/s | Chrome CPU: 22.1% RAM: 16.6% | iVMS CPU: 2.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:18 | CPU: 32.3% | RAM: 59.4% | Mreza: 0.3 MB/s
+2026-07-07 14:38:20 | CPU: 30.4% | RAM: 59.4% | Mreza: 0.16 MB/s | Chrome CPU: 2.2% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:22 | CPU: 22.0% | RAM: 59.4% | Mreza: 0.2 MB/s | Chrome CPU: 1.6% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:25 | CPU: 5.9% | RAM: 59.4% | Mreza: 0.21 MB/s
+2026-07-07 14:38:26 | CPU: 5.9% | RAM: 59.4% | Mreza: 0.18 MB/s | Chrome CPU: 1.6% RAM: 16.5% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:28 | CPU: 16.5% | RAM: 59.4% | Mreza: 0.14 MB/s | Chrome CPU: 1.8% RAM: 16.5% | iVMS CPU: 81.5% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:30 | CPU: 21.2% | RAM: 59.4% | Mreza: 0.18 MB/s | Chrome CPU: 1.4% RAM: 16.5% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.4%
+2026-07-07 14:38:32 | CPU: 12.6% | RAM: 59.4% | Mreza: 0.15 MB/s
+2026-07-07 14:38:34 | CPU: 15.5% | RAM: 59.4% | Mreza: 0.18 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:36 | CPU: 15.6% | RAM: 59.5% | Mreza: 0.15 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:39 | CPU: 14.1% | RAM: 59.6% | Mreza: 0.23 MB/s | Chrome CPU: 1.0% RAM: 16.5% | iVMS CPU: 3.3% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:39 | CPU: 27.9% | RAM: 59.7% | Mreza: 0.13 MB/s
+2026-07-07 14:38:42 | CPU: 7.2% | RAM: 59.7% | Mreza: 0.17 MB/s | Chrome CPU: 0.6% RAM: 16.6% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:45 | CPU: 14.6% | RAM: 59.7% | Mreza: 0.16 MB/s | Chrome CPU: 0.4% RAM: 16.6% | iVMS CPU: 10.4% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:46 | CPU: 54.8% | RAM: 59.7% | Mreza: 0.17 MB/s
+2026-07-07 14:38:47 | CPU: 99.0% | RAM: 59.7% | Mreza: 0.19 MB/s | Chrome CPU: 9.8% RAM: 16.6% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:50 | CPU: 8.1% | RAM: 59.7% | Mreza: 0.31 MB/s | Chrome CPU: 16.2% RAM: 16.6% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:53 | CPU: 7.6% | RAM: 59.7% | Mreza: 0.14 MB/s | Chrome CPU: 20.4% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:53 | CPU: 9.5% | RAM: 59.7% | Mreza: 0.17 MB/s
+2026-07-07 14:38:55 | CPU: 14.2% | RAM: 59.7% | Mreza: 0.14 MB/s | Chrome CPU: 25.8% RAM: 16.6% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:38:58 | CPU: 11.0% | RAM: 59.7% | Mreza: 0.17 MB/s | Chrome CPU: 28.0% RAM: 16.6% | iVMS CPU: 5.8% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:00 | CPU: 15.8% | RAM: 59.7% | Mreza: 0.15 MB/s
+2026-07-07 14:39:01 | CPU: 16.2% | RAM: 59.7% | Mreza: 0.16 MB/s | Chrome CPU: 20.3% RAM: 16.6% | iVMS CPU: 6.3% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:03 | CPU: 16.5% | RAM: 59.7% | Mreza: 0.13 MB/s | Chrome CPU: 9.7% RAM: 16.6% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:06 | CPU: 17.9% | RAM: 59.6% | Mreza: 0.16 MB/s | Chrome CPU: 12.5% RAM: 16.4% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:07 | CPU: 20.8% | RAM: 59.5% | Mreza: 0.16 MB/s
+2026-07-07 14:39:09 | CPU: 21.7% | RAM: 59.5% | Mreza: 0.15 MB/s | Chrome CPU: 24.3% RAM: 16.4% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:11 | CPU: 12.8% | RAM: 59.5% | Mreza: 0.13 MB/s | Chrome CPU: 23.6% RAM: 16.4% | iVMS CPU: 6.5% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:14 | CPU: 18.0% | RAM: 60.0% | Mreza: 0.19 MB/s | Chrome CPU: 12.4% RAM: 16.4% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:14 | CPU: 12.6% | RAM: 60.0% | Mreza: 0.17 MB/s
+2026-07-07 14:39:17 | CPU: 13.2% | RAM: 60.1% | Mreza: 0.15 MB/s | Chrome CPU: 3.7% RAM: 16.4% | iVMS CPU: 7.9% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:19 | CPU: 25.9% | RAM: 60.4% | Mreza: 0.15 MB/s | Chrome CPU: 3.9% RAM: 15.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:21 | CPU: 9.7% | RAM: 57.3% | Mreza: 0.18 MB/s
+2026-07-07 14:39:22 | CPU: 12.3% | RAM: 57.3% | Mreza: 0.16 MB/s | Chrome CPU: 5.9% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:25 | CPU: 16.5% | RAM: 57.4% | Mreza: 0.13 MB/s | Chrome CPU: 8.3% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:27 | CPU: 14.6% | RAM: 57.4% | Mreza: 0.15 MB/s | Chrome CPU: 8.3% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:28 | CPU: 13.5% | RAM: 57.4% | Mreza: 0.13 MB/s
+2026-07-07 14:39:30 | CPU: 2.9% | RAM: 57.4% | Mreza: 0.18 MB/s | Chrome CPU: 4.1% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:33 | CPU: 3.9% | RAM: 57.4% | Mreza: 0.11 MB/s | Chrome CPU: 0.6% RAM: 15.7% | iVMS CPU: 106.5% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:35 | CPU: 11.1% | RAM: 57.4% | Mreza: 0.32 MB/s | Chrome CPU: 1.2% RAM: 15.7% | iVMS CPU: 3.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:35 | CPU: 20.9% | RAM: 57.6% | Mreza: 0.19 MB/s
+2026-07-07 14:39:36 | ==================================================
+2026-07-07 14:39:36 | POKRECEM USER MONITOR
+2026-07-07 14:39:36 | ==================================================
+2026-07-07 14:39:38 | CPU: 7.6% | RAM: 57.6% | Mreza: 0.18 MB/s | Chrome CPU: 1.6% RAM: 15.7% | iVMS CPU: 3.2% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:38 | CPU: 8.5% | RAM: 57.5% | Mreza: 0.15 MB/s
+2026-07-07 14:39:41 | CPU: 10.7% | RAM: 57.5% | Mreza: 0.07 MB/s | Chrome CPU: 1.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:42 | CPU: 13.9% | RAM: 57.4% | Mreza: 0.15 MB/s
+2026-07-07 14:39:43 | CPU: 9.9% | RAM: 57.5% | Mreza: 0.23 MB/s | Chrome CPU: 2.4% RAM: 15.7% | iVMS CPU: 3.1% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:46 | CPU: 6.2% | RAM: 57.3% | Mreza: 0.19 MB/s | Chrome CPU: 7.0% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:49 | CPU: 9.7% | RAM: 57.3% | Mreza: 0.18 MB/s
+2026-07-07 14:39:49 | CPU: 9.3% | RAM: 57.3% | Mreza: 0.11 MB/s | Chrome CPU: 7.3% RAM: 15.7% | iVMS CPU: 0.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
+2026-07-07 14:39:51 | CPU: 13.5% | RAM: 57.3% | Mreza: 0.32 MB/s | Chrome CPU: 4.9% RAM: 15.7% | iVMS CPU: 6.0% RAM: 3.5% Procesi: 15 Mreza: 14.5%
