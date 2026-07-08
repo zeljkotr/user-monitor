@@ -20,11 +20,11 @@ jobs:
 
       - name: Instaliraj zavisnosti
         run: |
-          pip install pyinstaller psutil
+          pip install pyinstaller psutil pystray pillow
 
       - name: Napravi Windows binary
         run: |
-          pyinstaller --onefile --name user-monitor --noconsole monitor.py
+          pyinstaller --onefile --name user-monitor --noconsole --add-data "icon.py;." monitor.py
 
       - name: Upload binary
         uses: actions/upload-artifact@v4
