@@ -24,7 +24,7 @@ jobs:
 
       - name: Napravi Windows binary
         run: |
-          pyinstaller --onefile --name user-monitor --noconsole --add-data "icon.py;." monitor.py
+          pyinstaller --onefile --name user-monitor --noconsole --add-data "icon.py;." --runtime-hook hook.py monitor.py
 
       - name: Upload binary
         uses: actions/upload-artifact@v4
