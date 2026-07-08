@@ -1,8 +1,12 @@
 import psutil
 import time
+import threading
 from datetime import datetime
 import config
 import alerts
+import tray
+
+stop_event = threading.Event()
 
 def log(poruka):
     vreme = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -31,14 +35,11 @@ def uzmi_top_program(resurs="cpu"):
             ime = p.info["name"]
             if not ime:
                 continue
-
             if "chrome" in ime.lower():
                 ime = "Google Chrome"
             elif "ivms-4200" in ime.lower():
                 ime = "iVMS-4200"
-
             vrednost = p.info["cpu_percent"] if resurs == "cpu" else p.info["memory_percent"]
-
             if ime in programi:
                 programi[ime] += vrednost
             else:
@@ -61,13 +62,14 @@ def poruka_za_program(ime):
         return f"Zatvorite {ime} ako nije potreban."
 
 def proveri():
+    cfg = config.ucitaj()
     cpu = uzmi_cpu()
     ram = uzmi_ram()
     mreza = uzmi_mrezu()
 
     log(f"CPU: {cpu}% | RAM: {ram}% | Mreza: {mreza} MB/s")
 
-    if cpu > config.CPU_PRAG:
+    if cpu > cfg["CPU_PRAG"]:
         top_ime, top_vrednost = uzmi_top_program("cpu")
         alerts.upozori("cpu",
             f"CPU je preopterecen! ({cpu}%)\n\n"
@@ -76,7 +78,7 @@ def proveri():
     else:
         alerts.ocisti("cpu")
 
-    if ram > config.RAM_PRAG:
+    if ram > cfg["RAM_PRAG"]:
         top_ime, top_vrednost = uzmi_top_program("ram")
         alerts.upozori("ram",
             f"Memorija je preopterecena! ({ram}%)\n\n"
@@ -85,7 +87,7 @@ def proveri():
     else:
         alerts.ocisti("ram")
 
-    if mreza > config.MREZA_PRAG_MB:
+    if mreza > cfg["MREZA_PRAG_MB"]:
         alerts.upozori("mreza",
             f"Mreza je zasicena! ({mreza} MB/s)\n\n"
             f"Proverite da li neko preuzima velike fajlove\n"
@@ -95,34 +97,22 @@ def proveri():
 
 if __name__ == "__main__":
     alerts.splash()
+
+    # Pokreni tray u posebnom threadu
+    tray_thread = threading.Thread(
+        target=tray.pokreni_tray,
+        args=(stop_event,),
+        daemon=True
+    )
+    tray_thread.start()
+
     log("=" * 50)
     log("POKRECEM USER MONITOR")
     log("=" * 50)
 
-    while True:
+    while not stop_event.is_set():
         try:
             proveri()
         except Exception as e:
             log(f"GRESKA: {e}")
         time.sleep(config.INTERVAL)
-        
-if __name__ == "__main__":
-    alerts.splash()
-    
-    # Pokretanje settings prozora u posebnom threadu
-    import threading
-    import settings
-    t = threading.Thread(target=settings.otvori_settings)
-    t.daemon = True
-    t.start()
-    
-    log("=" * 50)
-    log("POKRECEM USER MONITOR")
-    log("=" * 50)
-
-    while True:
-        try:
-            proveri()
-        except Exception as e:
-            log(f"GRESKA: {e}")
-        time.sleep(config.INTERVAL)        

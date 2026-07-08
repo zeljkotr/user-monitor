@@ -1,7 +1,13 @@
 import json
 import os
 
-# Default vrednosti
+STARTUP = os.path.join(os.environ["APPDATA"],
+          "Microsoft", "Windows", "Start Menu",
+          "Programs", "Startup")
+
+CONFIG_FILE = os.path.join(STARTUP, "settings.json")
+LOG_FILE = os.path.join(STARTUP, "monitor.log")
+
 DEFAULTS = {
     "CPU_PRAG": 80,
     "RAM_PRAG": 85,
@@ -9,20 +15,20 @@ DEFAULTS = {
     "INTERVAL": 10
 }
 
-CONFIG_FILE = "C:\\vezbe\\user-monitor\\settings.json"
-LOG_FILE = "C:\\vezbe\\user-monitor\\monitor.log"
-
 def ucitaj():
     if os.path.exists(CONFIG_FILE):
-        with open(CONFIG_FILE, "r") as f:
-            return json.load(f)
+        try:
+            with open(CONFIG_FILE, "r") as f:
+                return json.load(f)
+        except:
+            return DEFAULTS.copy()
     return DEFAULTS.copy()
 
 def sacuvaj(podaci):
+    os.makedirs(os.path.dirname(CONFIG_FILE), exist_ok=True)
     with open(CONFIG_FILE, "w") as f:
         json.dump(podaci, f, indent=4)
 
-# Ucitaj podesavanja
 _cfg = ucitaj()
 CPU_PRAG = _cfg["CPU_PRAG"]
 RAM_PRAG = _cfg["RAM_PRAG"]

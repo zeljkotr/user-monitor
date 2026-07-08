@@ -1,12 +1,21 @@
 @echo off
-echo Instaliram User Monitor...
+cls
+echo ================================================
+echo   User Monitor v1.0 - Instalacija
+echo   Autor: Zeljko Tripcevski
+echo ================================================
+echo.
 
 set STARTUP=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
-set SOURCE=%~dp0
 
-copy "%SOURCE%user-monitor.exe" "%STARTUP%\user-monitor.exe"
+copy "%~dp0user-monitor.exe" "%STARTUP%\user-monitor.exe"
 
 echo.
-echo User Monitor ce se pokretati automatski sa Windowsom!
-echo Lokacija: %STARTUP%\user-monitor.exe
+echo ================================================
+echo   Instalacija zavrsena!
+echo   User Monitor ce se pokretati sa Windowsom.
+echo   Desni klik na ikonicu u taskbaru za
+echo   podesavanja.
+echo ================================================
+echo.
 pause

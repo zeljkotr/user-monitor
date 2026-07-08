@@ -19,6 +19,8 @@ def splash():
             "Monitoring je aktivan!\n\n"
             "Pratim: CPU, RAM, Mrezu\n"
             "Chrome i iVMS-4200\n\n"
+            "Desni klik na ikonicu u taskbaru\n"
+            "za podesavanja.\n\n"
             "Autor: Zeljko Tripcevski\n"
             "IT Team Lead @ MTC Nissal"
         )
