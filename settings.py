@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 import config
+import os
+import sys
 
 def otvori_settings():
     cfg = config.ucitaj()
@@ -47,7 +49,7 @@ def otvori_settings():
     label("Interval provere (s):", 4)
     interval_var = entry(cfg["INTERVAL"], 4)
 
-    def sacuvaj():
+    def sacuvaj_i_restartuj():
         try:
             novi = {
                 "CPU_PRAG": int(cpu_var.get()),
@@ -56,17 +58,14 @@ def otvori_settings():
                 "INTERVAL": int(interval_var.get())
             }
             config.sacuvaj(novi)
-            messagebox.showinfo("OK",
-                "Podesavanja sacuvana!\n"
-                "Restartujte User Monitor.")
             prozor.destroy()
+            os.execv(sys.executable, [sys.executable] + sys.argv)
         except:
-            messagebox.showerror("Greska",
-                "Unesite ispravne brojeve!")
+            messagebox.showerror("Greska", "Unesite ispravne brojeve!")
 
-    tk.Button(prozor, text="SACUVAJ",
-             command=sacuvaj,
-             bg="#00d4ff", fg="#000000",
+    tk.Button(prozor, text="SACUVAJ I RESTARTUJ",
+             command=sacuvaj_i_restartuj,
+             bg="#00ff88", fg="#000000",
              font=("Consolas", 10, "bold"),
              width=20).grid(row=5, columnspan=2, pady=15)
 
